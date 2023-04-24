@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Simple_Tic-Tac-Toe__Kotlin_-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Beyond_the_word.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Correct_jumping.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-First_digit.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Getting_letters_from_the_Alphabet.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Placement_of_ships.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-Jumps_and_returns-Whole_truth_about_continue.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Find_the_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Floor-space_of_the_room.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Just_checking.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Select_correct_branches.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-String_processor.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Strings_as_objects.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-The_army_of_units.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-The_number_of_digits.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).Topics-When_expression-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe_(Kotlin).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
